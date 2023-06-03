@@ -22,7 +22,6 @@ describe('Login functionaility works as expected', () => {
 
 
      cy.reload();
-   // cy.wait(2000);
     cy.get(login_locator.switch).first().click();
 
     cy.get('a').should('contain.text','Sign Out')
