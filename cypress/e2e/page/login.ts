@@ -3,6 +3,6 @@ export const login_locator= {
     email:"[id='email']",
     pass:"[id='pass']",
     send:"[id='send2']",
-    switch: "`button.action.switch`",
+    switch: "button.action.switch",
     content: "div.box-content"
 }
