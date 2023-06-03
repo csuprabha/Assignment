@@ -1,0 +1,10 @@
+{
+"customer": {
+    "customer": {
+        "email": "test@cypress-testing.com",
+        "firstname": "Test",
+        "lastname": "Test"
+    },
+    "password": "Test!234"
+}
+}
